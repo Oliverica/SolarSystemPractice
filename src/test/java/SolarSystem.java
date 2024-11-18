@@ -8,5 +8,10 @@ public class SolarSystem {
         bb.stars="10";
         bb.sun="1";
         System.out.println("Solar System is ready.");
+
+        FeatureSun fSun=new FeatureSun();
+        fSun.temp="333555";
+        fSun.color="green";
+        fSun.radius="25532323 miles";
     }
 }
