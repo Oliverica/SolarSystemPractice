@@ -13,5 +13,9 @@ public class SolarSystem {
         fSun.temp="333555";
         fSun.color="green";
         fSun.radius="25532323 miles";
+
+        Planet1 plan=new Planet1();
+        plan.color="pink";
+        plan.radius="1555511613 miles";
     }
 }
